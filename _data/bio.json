@@ -5,13 +5,11 @@
     "picture": "images/headshotab.jpg",
     "email": "abunnell@hawaii.edu",
     "website": "https://AriBunnell.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "summary": "I am studying for a Ph.D. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. My research interests are in deep learning for breast imaging, specifically in breast ultrasound. I'm also passionate about the study of healthcare AI ethics, particularly under feminist and intersectional frameworks. ",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "mmaluhia", "url": "http://github.com/AriBunnell" },
+      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/arianna-bunnell" }
     ]
   },
   "interests": [
