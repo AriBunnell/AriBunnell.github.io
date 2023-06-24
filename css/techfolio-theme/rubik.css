@@ -1,7 +1,7 @@
 /* Rubik Theme: modifies the default theme to use the chunkier Rubik for the header fonts. */
 
 /* Use Open Sans as the default font and Roboto for headlines */
-@import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,500,700|Source+Code+Pro:300,400,500,700");
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,500,600,700|Source+Code+Pro:300,400,500,700");
 @import url("https://fonts.googleapis.com/css?family=Sora:400,500,700,800");
 
 /* See https://getbootstrap.com/docs/5.2/customize/css-variables/#root-variables for variables to override. */
@@ -17,11 +17,11 @@
   --tf-icon-hover: var(--tf-green2);
   --tf-page-bg-color: var(--bs-white);
   --tf-footer-bg-color: var(--tf-green4);
-  --tf-navbar-bg-color: var(--tf-green1);
+  --tf-navbar-bg-color: var(--tf-green3);
   --tf-projects-bg-color: var(--tf-green4);
 }
 
-.border-bottom {
+.navbar {
   background-color: var(--tf-navbar-bg-color);
 }
 
