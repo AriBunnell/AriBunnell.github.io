@@ -23,6 +23,7 @@ h1,h2,h3,h4,h5 {
   color: var(--tf-green1);
 }
 
+
 /* Format social media icons */
 .tf-social {
   display: inline-block;
