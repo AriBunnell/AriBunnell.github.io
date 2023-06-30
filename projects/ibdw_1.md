@@ -3,7 +3,8 @@ layout: project
 type: project
 image: images/arianna/ibdw_me_crop.jpg
 title: "Image-Based Models for Predicting Advanced Breast Cancer Risk"
-date: 2023
+date: 2023-06-02
+display-date: 2023
 published: true
 labels:
   - Poster

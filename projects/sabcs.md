@@ -3,7 +3,8 @@ layout: project
 type: project
 image: images/arianna/sabcs_crop.jpg
 title: "Artificial Intelligence Detects, Classifies, and Describes Lesions in Clinical Breast Ultrasound Images"
-date: 2022
+date: 2022-12-02
+display-date: 2022
 published: true
 labels:
   - Poster

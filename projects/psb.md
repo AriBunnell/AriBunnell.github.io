@@ -3,7 +3,8 @@ layout: project
 type: project
 image: images/arianna/20230103_094136.jpg
 title: "The Effect of AI-Enhanced Breast Imaging on the Caring Radiologist-Patient Relationship"
-date: 2023
+date: 2023-01-02
+display-date: 2023
 published: true
 labels:
   - Oral

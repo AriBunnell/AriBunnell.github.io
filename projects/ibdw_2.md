@@ -3,7 +3,8 @@ layout: project
 type: project
 image: images/arianna/ibdw_lam_crop.jpg
 title: "Artificial Intelligence Predicts Mammographic Breast Density from Clinical Breast Ultrasound Images"
-date: 2023
+date: 2023-06-01
+display-date: 2023
 published: true
 labels:
   - Poster

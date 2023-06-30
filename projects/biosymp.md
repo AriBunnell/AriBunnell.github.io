@@ -3,7 +3,8 @@ layout: project
 type: project
 image: images/arianna/biosymp_crop.jpg
 title: "Data Standardization of Clinical, Real-World Breast Ultrasound Imaging Data"
-date: 2023
+date: 2023-04-01
+display-date: 2023
 published: true
 labels:
   - Poster
