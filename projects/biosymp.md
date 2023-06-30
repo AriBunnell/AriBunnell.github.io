@@ -13,3 +13,6 @@ summary: "I presented my work on the automatic pipeline I developed to clean and
 ---
 filler text --> needs to be updated 
  
+{% include captioned-image.html image="arianna/poster_4_12_ab.svg" caption="I presented this work at the JABSOM Biosymposium and the ICS department's Project Day in Spring 2023. This poster is describing some empirical performance results on the automatic breast ultrasound cleaning pipeline we use before ingestion into our deep learning pipelines. " %}
+ 
+Full-size poster can be found <a href = "../resources/poster_ab_4_17.pdf">here</a>. 
