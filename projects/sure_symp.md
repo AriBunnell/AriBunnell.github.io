@@ -14,4 +14,4 @@ summary: "My undergraduate mentee Kailee Hung presented her work on the automati
 ---
 {% include captioned-image.html image="arianna/SURE_Symposium_workspace.svg" caption="Kailee presented this work at the Summer Undergraduate Research Experience Symposium in Summer 2023. This poster is describing the pipeline Kailee developed for parsing and classifying the position and purpose of sonographer annotations on the clincial breast ultrasound data we collect." %}
  
-Full-size poster can be found <a href = "../resources/SURE_Symposium_workspace.pdf">here</a>. Kailee's professional portfolio can be found <a href="https://www.linkedin.com/in/kaileehung/">here. </a>
+Full-size poster can be found <a href = "../resources/SURE_Symposium_workspace.pdf">here</a>. Kailee's professional portfolio can be found <a href="https://kaileehung.github.io/">here. </a>
