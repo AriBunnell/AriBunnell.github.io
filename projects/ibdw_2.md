@@ -15,4 +15,4 @@ summary: "I presented my work on estimating BI-RADS mammographic breast density 
 ---
 {% include captioned-image.html image="arianna/poster_5_24_PS.svg" caption="I presented this work in an oral presentation during the Methods of Density and Risk session of the 10th International Breast Density Workshop in Kailua-Kona, which is co-chaired by my PhD co-advisor, Dr. John Shepherd. In this work we showed that AI-assigned BI-RADS mammographic breast density (from the Geras NYU algorithm) can be predicted from diagnostic breast ultrasound imaging." %}
  
-Full-size poster can be found <a href = "../resources/abunnell_final_poster.pdf">here</a>. 
+Full-size poster can be found <a href = "../resources/abunnell_final_poster.pdf">here</a>. Presentation slides can be found <a href ="../resources/abunnell_slides_ibdw.pdf">here. </a>
