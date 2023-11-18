@@ -1,0 +1,20 @@
+{
+  "basics": {
+    "name": "Arianna Bunnell",
+    "label": "Computer Science PhD Student",
+    "picture": "images/headshotab.jpg",
+    "website": "https://AriBunnell.github.io",
+    "summary": "I am studying for a Ph.D. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii at Manoa. My research interests are in deep learning for breast imaging, specifically in breast ultrasound. I'm also passionate about the study of healthcare AI ethics, particularly under feminist and intersectional frameworks. ",
+    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "aribunnell", "url": "http://github.com/AriBunnell" },
+      { "network": "linkedin", "username": "arianna-bunnell", "url": "http://linkedin.com/in/arianna-bunnell" }, 
+      {"network" : "scholar", "username" : "arianna-bunnell", "url" : "https://scholar.google.com/citations?hl=en&user=Hm4FEQYAAAAJ&view_op=list_works&gmla=AHoSzlVbobbObKcfNouDhKWKrtTf7-nxLItjkJ3BDO7oAtZ-NoD4iqLXbhypVkptgLUmyloyYDQgIcJ4qNd7ntk7"}
+    ]
+  },
+  "interests": [
+    { "name": "deep learning" },
+    { "name": "medical ethics" },
+    { "name": "explainable AI" }
+  ]
+}
