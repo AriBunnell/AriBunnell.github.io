@@ -2,8 +2,8 @@
 layout: project
 type: project
 image: images/arianna/biosymp24.jpg
-title: "Data Standardization of Clinical, Real-World Breast Ultrasound Imaging Data"
-date: 2024-04-01
+title: "Fiducial Point Placement on Total-Body DXA Scans with Deep Learning"
+date: 2024-05-01
 display-date: 2024
 published: true
 labels:
