@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/arianna/cade.jpg
+image: images/arianna/cade_card.jpg
 title: "Customization of AI-Based Breast Cancer Risk Models for Validation in AANHPI Women"
 date: 2024-07
 display-date: 2024
