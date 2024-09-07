@@ -14,4 +14,4 @@ summary: "I was honored to have been selected as a Honolulu ARCS Scholar for 202
 ---
 {% include captioned-image.html image="arianna/arcs_main.jpg" caption="I recieved an endowed 2024 Honolulu ARCS Scholar Award, the Sarah Ann Martin Award in Information and Computer Sciences. I had the privilige of presenting my work on accessible breast cancer risk and detection at the 2024 ARCS Symposium and attending an awardees banquet." %}
  
-Slides can be found <a href = "../resources/biosymp24_slides_ab.pdf">here</a>. <br/>
+Slides can be found <a href = "../resources/arianna_bunnell_arcs_foundation_slides.pdf">here</a>. <br/>
