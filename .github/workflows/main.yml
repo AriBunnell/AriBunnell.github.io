@@ -42,12 +42,12 @@ jobs:
           ~/.rbenv/bin/rbenv install 3.1.4
           ~/.rbenv/bin/rbenv global 3.1.4
           ~/.rbenv/bin/rbenv rehash
-          # Removed the touch command for /opt/hostedtoolcache
 
-      # Install Bundler and cache gems
+      # Install Bundler and cache gems in the user's local directory
       - name: Install Bundler
         run: |
-          gem install bundler
+          gem install bundler --user-install
+          bundle config set path 'vendor/bundle'
           bundle install
 
       - name: Setup Pages
