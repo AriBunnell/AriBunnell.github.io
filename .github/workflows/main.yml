@@ -42,8 +42,8 @@ jobs:
           ~/.rbenv/bin/rbenv install 3.1.4
           ~/.rbenv/bin/rbenv global 3.1.4
           ~/.rbenv/bin/rbenv rehash
-          touch /opt/hostedtoolcache/Ruby/3.1.4/x64.complete
-      
+          # Removed the touch command for /opt/hostedtoolcache
+
       # Install Bundler and cache gems
       - name: Install Bundler
         run: |
