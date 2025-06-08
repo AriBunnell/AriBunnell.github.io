@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/arianna/ibdw_2025.jpg
+image: images/arianna/ibdw2025.jpg
 title: ""
 date: 2025-06-06
 display-date: 2025
