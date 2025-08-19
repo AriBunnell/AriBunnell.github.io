@@ -11,7 +11,7 @@ labels:
   - Oral 
   - Breast Cancer
   - AI
-summary: "I presented my work on evaluation of existing AI and radiomic markers from mammography for breast cancer risk assessment in ANHPI women at the International Breast Density Workshop in Kailua-Kona."
+summary: "I presented my work on evaluation of existing AI and radiomic markers from mammography for breast cancer risk assessment in ANHPI women at the International Breast Density Workshop in Līhuʻe."
 ---
 {% include captioned-image.html image="arianna/ibdw_2025_poster.svg" caption="I presented this work in an oral presentation during the Frontiers in Breast Cancer Risk Asssessment session of the 11th International Breast Density Workshop in Lihue, which is co-chaired by my PhD co-advisor, Dr. John Shepherd. In this work we presented results evaluating the predictive power of over 400 different exsiting AI and radiomic measures on a population of ethnically-diverse ANHPI women." %}
  
