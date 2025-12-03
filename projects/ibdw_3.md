@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/arianna/ibdw2025.jpg
-title: ""
+title: "Mammography AI Models and Radiomic Features for Breast Cancer Risk Prediction: A Matched Case-Control Study in an Ethnically-Diverse Cohort"
 date: 2025-06-06
 display-date: 2025
 published: true
