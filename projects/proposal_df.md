@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/arianna/proposal.jpg
 title: "Concept Bottleneck Models with Expert Ontologies for the Diagnosis of Cancer from Medical Imaging"
-date: 2025-11-25
+date: 2025-10-25
 display-date: 2025
 published: true
 labels:
