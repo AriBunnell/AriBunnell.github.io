@@ -15,4 +15,4 @@ gem 'rouge'
 
 # Explicitly add and pin these lines to fix the build error:
 gem "jekyll-sass-converter", "~> 2.2"
-gem "sass-embedded", "~> 1.67"
+gem "sass-embedded", ">= 1.67", "< 1.100"
