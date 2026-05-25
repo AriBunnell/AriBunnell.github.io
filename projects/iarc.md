@@ -3,8 +3,8 @@ layout: project
 type: project
 image: images/arianna/iarc_pic.jpg
 title: "Deep Learning Enables Large-Scale Shape and Appearance Modeling in Total-Body DXA Imaging"
-date: 2025-9-26
-display-date: 2025
+date: 2026-05-20
+display-date: 2026
 published: true
 labels:
   - Oral
