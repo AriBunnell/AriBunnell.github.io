@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/arianna/undergrads_urop.jpg
 title: "Developing a Data Standardization Pipeline for Evaluation of Mammography AI in Hawaii"
-date: 2026-05
+date: 2026-05-01
 display-date: 2026
 published: true
 labels:
