@@ -12,4 +12,6 @@ gem "webrick", "~> 1.7"
 gem 'html-proofer'
 gem 'jekyll-gist'
 gem 'rouge'
+gem "jekyll", "~> 4.3.3"
+gem "jekyll-sass-converter", "~> 2.2"
 gem "sass-embedded", "~> 1.67"
